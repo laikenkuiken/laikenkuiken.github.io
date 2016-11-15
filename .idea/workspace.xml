@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="191" column="174" selection-start-line="191" selection-start-column="174" selection-end-line="191" selection-end-column="174" />
+              <caret line="191" column="135" selection-start-line="191" selection-start-column="135" selection-end-line="191" selection-end-column="135" />
               <folding>
                 <element signature="e#573#578#0" expanded="true" />
                 <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -231,12 +231,12 @@
       <workItem from="1478110325590" duration="15049000" />
       <workItem from="1478190114081" duration="6602000" />
       <workItem from="1478592835724" duration="800000" />
-      <workItem from="1479249643337" duration="705000" />
+      <workItem from="1479249643337" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23156000" />
+    <option name="totallyTimeSpent" value="23248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
@@ -416,7 +416,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="191" column="174" selection-start-line="191" selection-start-column="174" selection-end-line="191" selection-end-column="174" />
+          <caret line="191" column="135" selection-start-line="191" selection-start-column="135" selection-end-line="191" selection-end-column="135" />
           <folding>
             <element signature="e#573#578#0" expanded="true" />
             <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
