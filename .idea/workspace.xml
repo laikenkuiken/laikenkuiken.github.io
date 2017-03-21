@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c3042aa3-be58-4758-80aa-ae5e438e6202" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="laiken-portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="531" column="115" selection-start-line="531" selection-start-column="115" selection-end-line="531" selection-end-column="115" />
+            <state relative-caret-position="278">
+              <caret line="489" column="87" selection-start-line="489" selection-start-column="87" selection-end-line="489" selection-end-column="87" />
               <folding>
                 <element signature="e#2292#2297#0" expanded="true" />
                 <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -275,7 +276,7 @@
       <workItem from="1479249643337" duration="1471000" />
       <workItem from="1489478231351" duration="1135000" />
       <workItem from="1490121837628" duration="440000" />
-      <workItem from="1490122342804" duration="2678000" />
+      <workItem from="1490122342804" duration="2926000" />
     </task>
     <task id="LOCAL-00001" summary="Made portfolio changes">
       <created>1489478575191</created>
@@ -347,11 +348,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490129146645</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Made portfolio changes">
+      <created>1490129154322</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1490129154322</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28175000" />
+    <option name="totallyTimeSpent" value="28423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -601,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="531" column="115" selection-start-line="531" selection-start-column="115" selection-end-line="531" selection-end-column="115" />
+        <state relative-caret-position="278">
+          <caret line="489" column="87" selection-start-line="489" selection-start-column="87" selection-end-line="489" selection-end-column="87" />
           <folding>
             <element signature="e#2292#2297#0" expanded="true" />
             <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
